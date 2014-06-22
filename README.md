@@ -9,3 +9,9 @@ This is a basic bruteforce password hash cracker written in python. At the momen
 Use:
 
 <code>cracked.py [algorithm] [hash to check] [MAX_LENGTH of strings to compare]</code>
+
+####Future Features
+* Support for AES
+* wordlists
+* improvement of logs and phrasing
+* lower level memory management
